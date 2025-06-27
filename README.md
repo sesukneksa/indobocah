@@ -1,2 +1,1 @@
-# indobocah
-indobocah
+# [indobocah](https://indobocah.pages.dev)
